@@ -125,6 +125,7 @@ Currently, I'm improving my **Data Structures & Algorithms**, exploring **Machin
 </p>
 
 ---
+ 
 
 # 📊 GitHub Analytics
 
@@ -134,6 +135,7 @@ Currently, I'm improving my **Data Structures & Algorithms**, exploring **Machin
     alt="Uzair's GitHub Stats"
     height="180"
   />
+
   <img
     src="./profile/top-langs.svg"
     alt="Top Languages"
@@ -153,95 +155,63 @@ Currently, I'm improving my **Data Structures & Algorithms**, exploring **Machin
 </p>
 
 ---
-
+ 
 # 📈 Contribution Activity
 
 <p align="center">
-  <a href="https://github.com/khanuzair-f15">
-    <img
-      src="https://github-readme-activity-graph.vercel.app/graph?username=khanuzair-f15&hide_border=true&area=true"
-      alt="GitHub Contribution Activity Graph"
-    />
-  </a>
-</p>
-
----
-
-# 🏆 GitHub Trophies
-
-<p align="center">
   <img
-    src="https://github-profile-trophy.vercel.app/?username=khanuzair-f15&no-frame=true&no-bg=true&row=1&column=7"
-    alt="GitHub Trophies"
+    src="https://github-readme-activity-graph.vercel.app/graph?username=khanuzair-f15&theme=github-compact&hide_border=true&area=true"
+    alt="Contribution Activity Graph"
   />
 </p>
-
+ 
 ---
 
+ 
+ 
+---
 # 🧩 LeetCode
 
 <p align="center">
   <a href="https://leetcode.com/u/uzair_khan_work/">
     <img
-      src="https://leetcard.jacoblin.cool/uzair_khan_work?theme=light&ext=heatmap"
+      src="https://leetcard.jacoblin.cool/uzair_khan_work?theme=light,dark&ext=heatmap"
       alt="Uzair's LeetCode Stats"
     />
   </a>
 </p>
-
 ---
 
 # 🚀 Featured Projects
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-
-### 🧠 DSA
-
-My repository for practicing **Data Structures & Algorithms** and improving problem-solving skills.
+<p align="center">
 
 <a href="https://github.com/khanuzair-f15/DSA">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DSA Repository"/>
+  <img
+    src="./profile/dsa.svg"
+    alt="DSA"
+  />
 </a>
-
-</td>
-
-<td width="50%" valign="top">
-
-### 🔢 21 Number Game
-
-A simple number game project created while practicing programming logic and game development concepts.
 
 <a href="https://github.com/khanuzair-f15/21-Number-game">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View 21 Number Game Repository"/>
+  <img
+    src="./profile/number-game.svg"
+    alt="21 Number Game"
+  />
 </a>
 
-</td>
-  </tr>
+</p>
 
-  <tr>
-    <td width="50%" valign="top">
-
-### 🐮 Cows & Bulls Game
-
-A classic **Cows and Bulls** guessing game implemented as a programming project.
+<p align="center">
 
 <a href="https://github.com/khanuzair-f15/Cows-and-Bulls-game">
-  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Cows and Bulls Repository"/>
+  <img
+    src="./profile/cows-bulls.svg"
+    alt="Cows and Bulls Game"
+  />
 </a>
 
-</td>
-
-<td width="50%" valign="top">
-
-### 🚧 More Coming Soon
-
-Currently learning and building more projects in **AI, software development, and IoT**.
-
-</td>
-  </tr>
-</table>
+</p>
 
 ---
 
