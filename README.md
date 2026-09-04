@@ -9,15 +9,24 @@
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=khanuzair-f15&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  <img
+    src="https://komarev.com/ghpvc/?username=khanuzair-f15&label=Profile%20Views&color=0e75b6&style=flat"
+    alt="Profile Views"
+  />
 </p>
 
 <p align="center">
   <a href="https://github.com/khanuzair-f15">
-    <img src="https://img.shields.io/github/followers/khanuzair-f15?label=Followers&style=flat" alt="GitHub Followers"/>
+    <img
+      src="https://img.shields.io/github/followers/khanuzair-f15?label=Followers&style=flat"
+      alt="GitHub Followers"
+    />
   </a>
   <a href="https://github.com/khanuzair-f15?tab=repositories">
-    <img src="https://img.shields.io/github/stars/khanuzair-f15?label=Stars&style=flat" alt="GitHub Stars"/>
+    <img
+      src="https://img.shields.io/github/stars/khanuzair-f15?label=Stars&style=flat"
+      alt="GitHub Stars"
+    />
   </a>
 </p>
 
@@ -43,74 +52,74 @@ Currently, I'm improving my **Data Structures & Algorithms**, exploring **Machin
 
 <p align="center">
 
-<a href="https://www.python.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-alt="Python" width="45" height="45"/>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
+       alt="Python" width="45" height="45"/>
 </a>
 
-<a href="https://isocpp.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-alt="C++" width="45" height="45"/>
+<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
+       alt="C++" width="45" height="45"/>
 </a>
 
-<a href="https://www.cprogramming.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-alt="C" width="45" height="45"/>
+<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
+       alt="C" width="45" height="45"/>
 </a>
 
-<a href="https://www.java.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-alt="Java" width="45" height="45"/>
+<a href="https://www.java.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
+       alt="Java" width="45" height="45"/>
 </a>
 
-<a href="https://pytorch.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
-alt="PyTorch" width="45" height="45"/>
+<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
+       alt="PyTorch" width="45" height="45"/>
 </a>
 
-<a href="https://pandas.pydata.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-alt="Pandas" width="45" height="45"/>
+<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
+       alt="Pandas" width="45" height="45"/>
 </a>
 
-<a href="https://seaborn.pydata.org/" target="_blank">
-<img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-alt="Seaborn" width="45" height="45"/>
+<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
+  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
+       alt="Seaborn" width="45" height="45"/>
 </a>
 
-<a href="https://www.postgresql.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-alt="PostgreSQL" width="45" height="45"/>
+<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
+       alt="PostgreSQL" width="45" height="45"/>
 </a>
 
-<a href="https://flask.palletsprojects.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
-alt="Flask" width="45" height="45"/>
+<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
+       alt="Flask" width="45" height="45"/>
 </a>
 
-<a href="https://www.arduino.cc/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
-alt="Arduino" width="45" height="45"/>
+<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
+       alt="Arduino" width="45" height="45"/>
 </a>
 
-<a href="https://git-scm.com/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-alt="Git" width="45" height="45"/>
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
+       alt="Git" width="45" height="45"/>
 </a>
 
-<a href="https://www.linux.org/" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-alt="Linux" width="45" height="45"/>
+<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
+       alt="Linux" width="45" height="45"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-alt="HTML5" width="45" height="45"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
+       alt="HTML5" width="45" height="45"/>
 </a>
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
-<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-alt="CSS3" width="45" height="45"/>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
+       alt="CSS3" width="45" height="45"/>
 </a>
 
 </p>
@@ -121,13 +130,12 @@ alt="CSS3" width="45" height="45"/>
 
 <p align="center">
   <img
-    src="https://github-readme-stats.vercel.app/api?username=khanuzair-f15&show_icons=true&hide_border=true"
+    src="./profile/stats.svg"
     alt="Uzair's GitHub Stats"
     height="180"
   />
-
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=khanuzair-f15&layout=compact&hide_border=true"
+    src="./profile/top-langs.svg"
     alt="Top Languages"
     height="180"
   />
@@ -149,10 +157,12 @@ alt="CSS3" width="45" height="45"/>
 # 📈 Contribution Activity
 
 <p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=khanuzair-f15&hide_border=true&area=true"
-    alt="GitHub Contribution Activity Graph"
-  />
+  <a href="https://github.com/khanuzair-f15">
+    <img
+      src="https://github-readme-activity-graph.vercel.app/graph?username=khanuzair-f15&hide_border=true&area=true"
+      alt="GitHub Contribution Activity Graph"
+    />
+  </a>
 </p>
 
 ---
@@ -183,34 +193,55 @@ alt="CSS3" width="45" height="45"/>
 
 # 🚀 Featured Projects
 
-<p align="center">
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🧠 DSA
+
+My repository for practicing **Data Structures & Algorithms** and improving problem-solving skills.
 
 <a href="https://github.com/khanuzair-f15/DSA">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=khanuzair-f15&repo=DSA&hide_border=true"
-    alt="DSA"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View DSA Repository"/>
 </a>
+
+</td>
+
+<td width="50%" valign="top">
+
+### 🔢 21 Number Game
+
+A simple number game project created while practicing programming logic and game development concepts.
 
 <a href="https://github.com/khanuzair-f15/21-Number-game">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=khanuzair-f15&repo=21-Number-game&hide_border=true"
-    alt="21 Number Game"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View 21 Number Game Repository"/>
 </a>
 
-</p>
+</td>
+  </tr>
 
-<p align="center">
+  <tr>
+    <td width="50%" valign="top">
+
+### 🐮 Cows & Bulls Game
+
+A classic **Cows and Bulls** guessing game implemented as a programming project.
 
 <a href="https://github.com/khanuzair-f15/Cows-and-Bulls-game">
-  <img
-    src="https://github-readme-stats.vercel.app/api/pin/?username=khanuzair-f15&repo=Cows-and-Bulls-game&hide_border=true"
-    alt="Cows and Bulls Game"
-  />
+  <img src="https://img.shields.io/badge/View%20Repository-181717?style=for-the-badge&logo=github&logoColor=white" alt="View Cows and Bulls Repository"/>
 </a>
 
-</p>
+</td>
+
+<td width="50%" valign="top">
+
+### 🚧 More Coming Soon
+
+Currently learning and building more projects in **AI, software development, and IoT**.
+
+</td>
+  </tr>
+</table>
 
 ---
 
@@ -218,15 +249,15 @@ alt="CSS3" width="45" height="45"/>
 
 <p align="center">
 
-<img src="https://img.shields.io/badge/DSA-181717?style=for-the-badge&logo=leetcode&logoColor=white"/>
+<img src="https://img.shields.io/badge/DSA-181717?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
 
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
+<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
 
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
 
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
 
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white"/>
+<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
 
 </p>
 
