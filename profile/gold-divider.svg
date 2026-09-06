@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="14" viewBox="0 0 1100 14" fill="none" role="img" aria-label="Gold activity accent">
+  <defs>
+    <filter id="glow" x="-5%" y="-300%" width="110%" height="700%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feMerge>
+        <feMergeNode in="blur" />
+        <feMergeNode in="SourceGraphic" />
+      </feMerge>
+    </filter>
+    <linearGradient id="gold" x1="0" y1="0" x2="1100" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#D4A72C" stop-opacity="0" />
+      <stop offset=".15" stop-color="#D4A72C" />
+      <stop offset=".5" stop-color="#F2CC60" />
+      <stop offset=".85" stop-color="#D4A72C" />
+      <stop offset="1" stop-color="#D4A72C" stop-opacity="0" />
+    </linearGradient>
+  </defs>
+  <path d="M16 7H1084" stroke="url(#gold)" stroke-width="1.5" filter="url(#glow)" />
+  <circle cx="550" cy="7" r="3" fill="#F2CC60" filter="url(#glow)" />
+</svg>

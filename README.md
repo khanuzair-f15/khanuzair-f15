@@ -1,307 +1,133 @@
-<h1 align="center">Hi 👋, I'm Uzair Khan</h1>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=25&duration=3200&pause=900&color=39FF14&background=0D1117&center=true&vCenter=true&width=800&height=58&lines=uzair%40github%3A~%24+whoami;Uzair+Khan+%E2%80%94+CS+Student+%7C+Software+Developer;Build.+Break.+Learn.+Repeat." alt="Terminal introduction" />
 
-<h3 align="center">
-  Computer Science Student • Software Developer • AI Enthusiast
-</h3>
+  <br />
 
-<p align="center">
-  <i>Learning, building, and solving problems one project at a time.</i>
-</p>
+  <a href="https://github.com/khanuzair-f15?tab=followers"><img src="https://img.shields.io/github/followers/khanuzair-f15?style=for-the-badge&logo=github&label=FOLLOWERS&color=0D1117&labelColor=161B22" alt="GitHub followers" /></a>
+  <a href="https://github.com/khanuzair-f15"><img src="https://komarev.com/ghpvc/?username=khanuzair-f15&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS" alt="Profile views" /></a>
+  <a href="mailto:khanuzair.work@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_CONNECT-0D1117?style=for-the-badge&logo=maildotru&logoColor=39FF14&labelColor=161B22" alt="Available to connect" /></a>
+</div>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=khanuzair-f15&label=Profile%20Views&color=0e75b6&style=flat"
-    alt="Profile Views"
-  />
-</p>
+```text
+╔══════════════════════════════════════════════════════════════════════════════╗
+║                         SYSTEM PROFILE :: UZAIR KHAN                         ║
+╚══════════════════════════════════════════════════════════════════════════════╝
+```
 
-<p align="center">
-  <a href="https://github.com/khanuzair-f15">
-    <img
-      src="https://img.shields.io/github/followers/khanuzair-f15?label=Followers&style=flat"
-      alt="GitHub Followers"
-    />
-  </a>
-  <a href="https://github.com/khanuzair-f15?tab=repositories">
-    <img
-      src="https://img.shields.io/github/stars/khanuzair-f15?label=Stars&style=flat"
-      alt="GitHub Stars"
-    />
-  </a>
-</p>
+## About me
 
----
+<div align="center">
+  <h3>Turning curiosity into useful software.</h3>
+  <sub>Learning with intention. Building with momentum.</sub>
+</div>
 
-## 👨‍💻 About Me
+🧠 **Think in systems** — I enjoy breaking down complex problems into clean, practical solutions.
 
-I'm a **Computer Science student** interested in **AI and software development**.
+🛠️ **Build with purpose** — I turn ideas and lessons into projects across software, AI, and IoT.
 
-Currently, I'm improving my **Data Structures & Algorithms**, exploring **Machine Learning**, and building projects to strengthen my programming and problem-solving skills.
+🌱 **Grow every day** — I’m sharpening my DSA foundation while exploring new tools and technologies.
 
-- 🔭 Currently working on **[DSA](https://github.com/khanuzair-f15/DSA)**
-- 🌱 Currently learning **PyTorch, Pandas, SQL & Seaborn**
-- 🧠 Improving my **DSA & problem-solving skills**
-- 🤖 Exploring **AI / Machine Learning**
-- 💻 Interested in **Software Development & IoT**
-- 🚀 Learning by building projects
-- 📫 **khanuzair.work@gmail.com**
+<div align="center">
+  <a href="https://github.com/khanuzair-f15/DSA"><img src="https://img.shields.io/badge/Currently%20building-DSA%20practice-0D1117?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="Currently building DSA practice" /></a>
+  <img src="https://img.shields.io/badge/Exploring-AI%20%2F%20Machine%20Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=39FF14" alt="Exploring AI and Machine Learning" />
+  <a href="mailto:khanuzair.work@gmail.com"><img src="https://img.shields.io/badge/Reach%20me-khanuzair.work%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email Uzair" /></a>
+</div>
 
----
+<br />
 
-## 🛠️ Languages & Tools
+## `$ ls -la ./toolbox`
 
-<p align="center">
+<div align="center">
+  <img src="https://skillicons.dev/icons?i=python,cpp,c,java,pytorch,postgres,flask,arduino,git,linux,html,css&theme=dark&perline=12" alt="Python, C++, C, Java, PyTorch, PostgreSQL, Flask, Arduino, Git, Linux, HTML and CSS" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/Pandas-0D1117?style=for-the-badge&logo=pandas&logoColor=39FF14" alt="Pandas" />
+  <img src="https://img.shields.io/badge/Seaborn-0D1117?style=for-the-badge&logo=python&logoColor=39FF14" alt="Seaborn" />
+  <img src="https://img.shields.io/badge/SQL-0D1117?style=for-the-badge&logo=postgresql&logoColor=39FF14" alt="SQL" />
+</div>
 
-<a href="https://www.python.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg"
-       alt="Python" width="45" height="45"/>
-</a>
+<br />
 
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg"
-       alt="C++" width="45" height="45"/>
-</a>
+## `$ git log --graph --profile`
 
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg"
-       alt="C" width="45" height="45"/>
-</a>
+<div align="center">
+  <img src="https://img.shields.io/badge/PROFILE_METRICS-0D1117?style=for-the-badge&logo=github&logoColor=40C463" alt="Profile metrics" />
+  <br /><br />
+  <img height="175" src="./profile/stats.svg" alt="Uzair's GitHub statistics" />
+  <img height="175" src="./profile/top-langs.svg" alt="Uzair's most-used languages" />
+  <br /><br />
+  <img src="https://img.shields.io/badge/CONSISTENCY_TRACKER-0D1117?style=for-the-badge&logo=githubactions&logoColor=40C463" alt="Consistency tracker" />
+  <br /><br />
+  <img src="https://streak-stats.demolab.com?user=khanuzair-f15&hide_border=true&background=0D1117&ring=39FF14&fire=F59E0B&currStreakNum=40C463&currStreakLabel=39FF14&sideNums=40C463&sideLabels=C9D1D9&dates=8B949E" alt="GitHub contribution streak" />
+  <br /><br />
+</div>
 
-<a href="https://www.java.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"
-       alt="Java" width="45" height="45"/>
-</a>
+<br />
 
-<a href="https://pytorch.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg"
-       alt="PyTorch" width="45" height="45"/>
-</a>
+## `$ git log --contributions`
 
-<a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg"
-       alt="Pandas" width="45" height="45"/>
-</a>
+<div align="center">
+  <img width="95%" src="./profile/gold-divider.svg" alt="" />
+  <br />
+  <img width="95%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=khanuzair-f15&theme=github_dark" alt="GitHub contribution activity graph" />
+  <br />
+  <img width="95%" src="./profile/gold-divider.svg" alt="" />
+</div>
 
-<a href="https://seaborn.pydata.org/" target="_blank" rel="noreferrer">
-  <img src="https://seaborn.pydata.org/_images/logo-mark-lightbg.svg"
-       alt="Seaborn" width="45" height="45"/>
-</a>
+<br />
 
-<a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg"
-       alt="PostgreSQL" width="45" height="45"/>
-</a>
+## `$ find ./projects --featured`
 
-<a href="https://flask.palletsprojects.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg"
-       alt="Flask" width="45" height="45"/>
-</a>
+<div align="center">
+  <sub>A small selection from my build log.</sub>
+  <br /><br />
+  <img src="https://img.shields.io/badge/FEATURED_BUILD-DSA-0D1117?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="Featured build: DSA" />
+  <br /><br />
+  <a href="https://github.com/khanuzair-f15/DSA"><img src="./profile/dsa.svg" alt="DSA project" /></a>
+</div>
 
-<a href="https://www.arduino.cc/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg"
-       alt="Arduino" width="45" height="45"/>
-</a>
+<br />
 
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg"
-       alt="Git" width="45" height="45"/>
-</a>
+<div align="center">
+  <img src="https://img.shields.io/badge/PROJECT_ARCHIVE-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="Project archive" />
+  <br /><br />
+  <a href="https://github.com/khanuzair-f15/21-Number-game"><img src="./profile/number-game.svg" alt="21 Number Game project" /></a>
+  <a href="https://github.com/khanuzair-f15/Cows-and-Bulls-game"><img src="./profile/cows-bulls.svg" alt="Cows and Bulls Game project" /></a>
+  <br /><br />
+  <a href="https://github.com/khanuzair-f15?tab=repositories"><img src="https://img.shields.io/badge/EXPLORE_ALL_REPOSITORIES-161B22?style=for-the-badge&logo=github&logoColor=39FF14" alt="Explore all repositories" /></a>
+</div>
 
-<a href="https://www.linux.org/" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg"
-       alt="Linux" width="45" height="45"/>
-</a>
+<br />
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
-       alt="HTML5" width="45" height="45"/>
-</a>
+## `$ ./coding-stats --leetcode`
 
-<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank" rel="noreferrer">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"
-       alt="CSS3" width="45" height="45"/>
-</a>
+<div align="center">
+  <a href="https://leetcode.com/u/uzair_khan_work/"><img src="https://leetcard.jacoblin.cool/uzair_khan_work?theme=dark&font=Fira%20Code&ext=heatmap" alt="Uzair's LeetCode statistics" /></a>
+</div>
 
-</p>
+<br />
 
----
- 
+## `$ ./snake --contributions`
 
-# 📊 GitHub Analytics
-
-<p align="center">
-  <img
-    src="./profile/stats.svg"
-    alt="Uzair's GitHub Stats"
-    height="180"
-  />
-
-  <img
-    src="./profile/top-langs.svg"
-    alt="Top Languages"
-    height="180"
-  />
-</p>
-
----
-
-# 🔥 Contribution Streak
-
-<p align="center">
-  <img
-    src="https://streak-stats.demolab.com/?user=khanuzair-f15&hide_border=true"
-    alt="GitHub Contribution Streak"
-  />
-</p>
-
----
- 
-# 📈 Contribution Activity
-
-<p align="center">
-  <img
-    src="https://github-readme-activity-graph.vercel.app/graph?username=khanuzair-f15&theme=github-compact&hide_border=true&area=true"
-    alt="Contribution Activity Graph"
-  />
-</p>
- 
----
-
- 
- 
----
-# 🧩 LeetCode
-
-<p align="center">
-  <a href="https://leetcode.com/u/uzair_khan_work/">
-    <img
-      src="https://leetcard.jacoblin.cool/uzair_khan_work?theme=light,dark&ext=heatmap"
-      alt="Uzair's LeetCode Stats"
-    />
-  </a>
-</p>
----
-
-# 🚀 Featured Projects
-
-<p align="center">
-
-<a href="https://github.com/khanuzair-f15/DSA">
-  <img
-    src="./profile/dsa.svg"
-    alt="DSA"
-  />
-</a>
-
-<a href="https://github.com/khanuzair-f15/21-Number-game">
-  <img
-    src="./profile/number-game.svg"
-    alt="21 Number Game"
-  />
-</a>
-
-</p>
-
-<p align="center">
-
-<a href="https://github.com/khanuzair-f15/Cows-and-Bulls-game">
-  <img
-    src="./profile/cows-bulls.svg"
-    alt="Cows and Bulls Game"
-  />
-</a>
-
-</p>
-
----
-
-# 📚 Currently Learning
-
-<p align="center">
-
-<img src="https://img.shields.io/badge/DSA-181717?style=for-the-badge&logo=leetcode&logoColor=white" alt="DSA"/>
-
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch"/>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
-
-<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge&logo=python&logoColor=white" alt="Seaborn"/>
-
-</p>
-
----
-
-# 🐍 Contribution Snake
-
-<p align="center">
+<div align="center">
   <picture>
-    <source
-      media="(prefers-color-scheme: dark)"
-      srcset="https://raw.githubusercontent.com/khanuzair-f15/khanuzair-f15/output/github-contribution-grid-snake-dark.svg"
-    />
-    <source
-      media="(prefers-color-scheme: light)"
-      srcset="https://raw.githubusercontent.com/khanuzair-f15/khanuzair-f15/output/github-contribution-grid-snake.svg"
-    />
-    <img
-      src="https://raw.githubusercontent.com/khanuzair-f15/khanuzair-f15/output/github-contribution-grid-snake.svg"
-      alt="GitHub Contribution Snake"
-    />
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/khanuzair-f15/khanuzair-f15/output/github-contribution-grid-snake-dark.svg" />
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/khanuzair-f15/khanuzair-f15/output/github-contribution-grid-snake.svg" />
+    <img alt="Animated contribution snake" src="https://raw.githubusercontent.com/khanuzair-f15/khanuzair-f15/output/github-contribution-grid-snake.svg" />
   </picture>
-</p>
+</div>
 
----
+```text
+╔═════════════════════════════════ CONNECT ═══════════════════════════════════╗
+║    Interested in an idea, project, or tech conversation? My inbox is open.  ║
+╚═════════════════════════════════════════════════════════════════════════════╝
+```
 
-# 🌐 Connect With Me
+<div align="center">
+  <a href="https://github.com/khanuzair-f15"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" /></a>
+  <a href="https://www.instagram.com/khan_uzair___1/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
+  <a href="https://leetcode.com/u/uzair_khan_work/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
+  <a href="mailto:khanuzair.work@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
 
-<p align="center">
-
-<a href="https://github.com/khanuzair-f15">
-  <img
-    src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg"
-    alt="GitHub"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://www.instagram.com/khan_uzair___1/">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
-    alt="Instagram"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="https://leetcode.com/u/uzair_khan_work/">
-  <img
-    src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg"
-    alt="LeetCode"
-    width="40"
-    height="40"
-  />
-</a>
-
-<a href="mailto:khanuzair.work@gmail.com">
-  <img
-    src="https://raw.githubusercontent.com/gauravghongde/social-icons/master/SVG/Color/Gmail.svg"
-    alt="Gmail"
-    width="40"
-    height="40"
-  />
-</a>
-
-</p>
-
----
-
-<p align="center">
-  <i>Keep learning. Keep building. Keep improving. 🚀</i>
-</p>
-
-<p align="center">
-  ⭐ Feel free to explore my repositories!
-</p>
+  <br /><br />
+  <samp>© 2026 Uzair Khan · built from the terminal</samp>
+</div>

@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #2f80ed;
+            fill: #40c463;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -38,7 +38,7 @@
       }
     }
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #434d58;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -47,7 +47,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #434d58;
+      fill: #c9d1d9;
     }
     .stagger {
       opacity: 0;
@@ -85,17 +85,30 @@
 
         
 
+        <defs>
+          <linearGradient id="cardGradient" x1="0" y1="0" x2="300" y2="140" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#0d1117" />
+            <stop offset="1" stop-color="#101b16" />
+          </linearGradient>
+          <radialGradient id="glowGradient" cx="0" cy="0" r="1" gradientTransform="translate(280 15) rotate(136) scale(100 95)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#40c463" stop-opacity=".18" />
+            <stop offset="1" stop-color="#40c463" stop-opacity="0" />
+          </radialGradient>
+        </defs>
+
         <rect
           data-testid="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="12"
           height="99%"
-          stroke="#e4e2e2"
+          stroke="#30363d"
           width="299"
-          fill="#fffefe"
-          stroke-opacity="0"
+          fill="url(#cardGradient)"
+          stroke-opacity="0.7"
         />
+        <circle cx="280" cy="15" r="100" fill="url(#glowGradient)" />
+        <circle cx="0" cy="140" r="60" fill="#40c463" opacity=".05" />
 
         
       <g
