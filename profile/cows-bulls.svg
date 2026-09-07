@@ -8,12 +8,12 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId"></title>
-        <desc id="descId"></desc>
+        <title id="titleId">Cows-and-Bulls-game</title>
+        <desc id="descId">Python Bulls and Cows game — guess a 4-digit unique code using Bulls and Cows as clues.</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #2f80ed;
+            fill: #40c463;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,14 +22,14 @@
           }
           
     .description {
-      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;fill: #c9d1d9;
+      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9;
       
     }
     .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e }
     .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
     .badge rect { opacity: 0.2 }
 
-    .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9 }
+    .stat { font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9 }
     .stagger {
       opacity: 0;
       animation: fadeInAnimation 0.3s ease-in-out forwards;
@@ -37,7 +37,7 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #8b949e;
+      fill: #40c463;
       display: block;
     }
   
@@ -66,17 +66,30 @@
 
         
 
+        <defs>
+          <linearGradient id="cardGradient" x1="0" y1="0" x2="400" y2="150" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#0d1117" />
+            <stop offset="1" stop-color="#101b16" />
+          </linearGradient>
+          <radialGradient id="glowGradient" cx="0" cy="0" r="1" gradientTransform="translate(370 18) rotate(136) scale(120 90)" gradientUnits="userSpaceOnUse">
+            <stop stop-color="#40c463" stop-opacity=".20" />
+            <stop offset="1" stop-color="#40c463" stop-opacity="0" />
+          </radialGradient>
+        </defs>
+
         <rect
           data-testid="card-bg"
           x="0.5"
           y="0.5"
-          rx="4.5"
+          rx="12"
           height="99%"
           stroke="#30363d"
           width="399"
-          fill="#0d1117"
-          stroke-opacity="0"
+          fill="url(#cardGradient)"
+          stroke-opacity="0.7"
         />
+        <circle cx="370" cy="18" r="100" fill="url(#glowGradient)" />
+        <circle cx="15" cy="150" r="60" fill="#40c463" opacity=".05" />
 
         
       <g

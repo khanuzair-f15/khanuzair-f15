@@ -17,17 +17,8 @@
 ## About me
 
 <div align="center">
-  <h3>Turning curiosity into useful software.</h3>
-  <sub>Learning with intention. Building with momentum.</sub>
-</div>
-
-🧠 **Think in systems** — I enjoy breaking down complex problems into clean, practical solutions.
-
-🛠️ **Build with purpose** — I turn ideas and lessons into projects across software, AI, and IoT.
-
-🌱 **Grow every day** — I’m sharpening my DSA foundation while exploring new tools and technologies.
-
-<div align="center">
+  <img width="95%" src="./profile/about.svg" alt="About Uzair Khan — terminal-style card" />
+  <br /><br />
   <a href="https://github.com/khanuzair-f15/DSA"><img src="https://img.shields.io/badge/Currently%20building-DSA%20practice-0D1117?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="Currently building DSA practice" /></a>
   <img src="https://img.shields.io/badge/Exploring-AI%20%2F%20Machine%20Learning-0D1117?style=for-the-badge&logo=pytorch&logoColor=39FF14" alt="Exploring AI and Machine Learning" />
   <a href="mailto:khanuzair.work@gmail.com"><img src="https://img.shields.io/badge/Reach%20me-khanuzair.work%40gmail.com-0D1117?style=for-the-badge&logo=gmail&logoColor=39FF14" alt="Email Uzair" /></a>
