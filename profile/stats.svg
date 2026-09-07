@@ -8,12 +8,12 @@
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">uzair khan&#39;s GitHub Stats, Rank: C</title>
-        <desc id="descId">Total Stars Earned: 4, Total Commits  : 100, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
+        <title id="titleId">uzair khan&#39;s GitHub Stats, Rank: C+</title>
+        <desc id="descId">Total Stars Earned: 28, Total Commits  : 111, Total PRs: 0, Total Issues: 0, Contributed to (last year): 0</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #40c463;
+            fill: #40C463;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,7 +22,7 @@
           }
           
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #C9D1D9;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -33,7 +33,7 @@
       animation: fadeInAnimation 0.3s ease-in-out forwards;
     }
     .rank-text {
-      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9;
+      font: 800 24px 'Segoe UI', Ubuntu, Sans-Serif; fill: #C9D1D9;
       animation: scaleInAnimation 0.3s ease-in-out forwards;
     }
     .rank-percentile-header {
@@ -46,18 +46,18 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #40c463;
+      fill: #40C463;
       display: block;
     }
 
     .rank-circle-rim {
-      stroke: #40c463;
+      stroke: #40C463;
       fill: none;
       stroke-width: 6;
       opacity: 0.2;
     }
     .rank-circle {
-      stroke: #40c463;
+      stroke: #40C463;
       stroke-dasharray: 250;
       fill: none;
       stroke-width: 6;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 242.31668967803668;
+        stroke-dashoffset: 218.1520809597279;
       }
     }
   
@@ -103,30 +103,17 @@
 
         
 
-        <defs>
-          <linearGradient id="cardGradient" x1="0" y1="0" x2="467" y2="195" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#0d1117" />
-            <stop offset="1" stop-color="#101b16" />
-          </linearGradient>
-          <radialGradient id="glowGradient" cx="0" cy="0" r="1" gradientTransform="translate(430 22) rotate(136) scale(150 120)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#40c463" stop-opacity=".20" />
-            <stop offset="1" stop-color="#40c463" stop-opacity="0" />
-          </radialGradient>
-        </defs>
-
         <rect
           data-testid="card-bg"
           x="0.5"
           y="0.5"
-          rx="12"
+          rx="4.5"
           height="99%"
-          stroke="#30363d"
+          stroke="#30363D"
           width="466"
-          fill="url(#cardGradient)"
-          stroke-opacity="0.7"
+          fill="#0D1117"
+          stroke-opacity="1"
         />
-        <circle cx="430" cy="22" r="135" fill="url(#glowGradient)" />
-        <circle cx="20" cy="195" r="80" fill="#40c463" opacity=".05" />
 
         
       <g
@@ -156,7 +143,7 @@
         <g class="rank-text">
           
         <text x="-5" y="3" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="level-rank-icon">
-          C
+          C+
         </text>
       
         </g>
@@ -175,7 +162,7 @@
         x="224.01"
         y="12.5"
         data-testid="stars"
-      >4</text>
+      >28</text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms" transform="translate(25, 0)">
@@ -190,7 +177,7 @@
         x="224.01"
         y="12.5"
         data-testid="commits"
-      >100</text>
+      >111</text>
     </g>
   </g><g transform="translate(0, 50)">
     <g class="stagger" style="animation-delay: 750ms" transform="translate(25, 0)">

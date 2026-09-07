@@ -13,7 +13,7 @@
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #40c463;
+            fill: #40C463;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -38,7 +38,7 @@
       }
     }
     .stat {
-      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9;
+      font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #C9D1D9;
     }
     @supports(-moz-appearance: auto) {
       /* Selector detects Firefox */
@@ -47,7 +47,7 @@
     .bold { font-weight: 700 }
     .lang-name {
       font: 400 11px "Segoe UI", Ubuntu, Sans-Serif;
-      fill: #c9d1d9;
+      fill: #C9D1D9;
     }
     .stagger {
       opacity: 0;
@@ -85,30 +85,17 @@
 
         
 
-        <defs>
-          <linearGradient id="cardGradient" x1="0" y1="0" x2="300" y2="140" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#0d1117" />
-            <stop offset="1" stop-color="#101b16" />
-          </linearGradient>
-          <radialGradient id="glowGradient" cx="0" cy="0" r="1" gradientTransform="translate(280 15) rotate(136) scale(100 95)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#40c463" stop-opacity=".18" />
-            <stop offset="1" stop-color="#40c463" stop-opacity="0" />
-          </radialGradient>
-        </defs>
-
         <rect
           data-testid="card-bg"
           x="0.5"
           y="0.5"
-          rx="12"
+          rx="4.5"
           height="99%"
-          stroke="#30363d"
+          stroke="#30363D"
           width="299"
-          fill="url(#cardGradient)"
-          stroke-opacity="0.7"
+          fill="#0D1117"
+          stroke-opacity="1"
         />
-        <circle cx="280" cy="15" r="100" fill="url(#glowGradient)" />
-        <circle cx="0" cy="140" r="60" fill="#40c463" opacity=".05" />
 
         
       <g
@@ -143,7 +130,7 @@
           data-testid="lang-progress"
           x="0"
           y="0"
-          width="200.98"
+          width="199.57"
           height="8"
           fill="#e34c26"
         />
@@ -151,9 +138,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="200.98"
+          x="199.57"
           y="0"
-          width="40.6"
+          width="40.31"
           height="8"
           fill="#3572A5"
         />
@@ -161,9 +148,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="241.57999999999998"
+          x="239.88"
           y="0"
-          width="15.309999999999999"
+          width="15.27"
           height="8"
           fill="#663399"
         />
@@ -171,9 +158,9 @@
         <rect
           mask="url(#rect-mask)"
           data-testid="lang-progress"
-          x="246.89"
+          x="245.15"
           y="0"
-          width="13.120000000000001"
+          width="14.84"
           height="8"
           fill="#f34b7d"
         />
@@ -184,28 +171,28 @@
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#e34c26" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        HTML 80.39%
+        HTML 79.83%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#3572A5" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        Python 16.24%
+        Python 16.12%
       </text>
     </g>
   </g></g><g transform="translate(150, 0)"><g transform="translate(0, 0)">
     <g class="stagger" style="animation-delay: 450ms">
       <circle cx="5" cy="6" r="5" fill="#663399" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        CSS 2.12%
+        CSS 2.11%
       </text>
     </g>
   </g><g transform="translate(0, 25)">
     <g class="stagger" style="animation-delay: 600ms">
       <circle cx="5" cy="6" r="5" fill="#f34b7d" />
       <text data-testid="lang-name" x="15" y="10" class='lang-name'>
-        C++ 1.25%
+        C++ 1.94%
       </text>
     </g>
   </g></g>
