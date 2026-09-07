@@ -8,15 +8,13 @@
   <a href="mailto:khanuzair.work@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_CONNECT-0D1117?style=for-the-badge&logo=maildotru&logoColor=39FF14&labelColor=161B22" alt="Available to connect" /></a>
 </div>
 
-```text
-╔══════════════════════════════════════════════════════════════════════════════╗
-║                         SYSTEM PROFILE :: UZAIR KHAN                         ║
-╚══════════════════════════════════════════════════════════════════════════════╝
-```
+<br />
 
-## About me
+## `$ cat ./system-profile.md`
 
 <div align="center">
+  <img src="https://img.shields.io/badge/SYSTEM_PROFILE-UZAIR_KHAN-0D1117?style=for-the-badge&logo=gnubash&logoColor=39FF14" alt="System Profile: Uzair Khan" />
+  <br /><br />
   <img width="95%" src="./profile/about.svg" alt="About Uzair Khan — terminal-style card" />
   <br /><br />
   <a href="https://github.com/khanuzair-f15/DSA"><img src="https://img.shields.io/badge/Currently%20building-DSA%20practice-0D1117?style=for-the-badge&logo=leetcode&logoColor=39FF14" alt="Currently building DSA practice" /></a>
@@ -107,13 +105,16 @@
   </picture>
 </div>
 
-```text
-╔═════════════════════════════════ CONNECT ═══════════════════════════════════╗
-║    Interested in an idea, project, or tech conversation? My inbox is open.  ║
-╚═════════════════════════════════════════════════════════════════════════════╝
-```
+<br />
+
+## `$ ping --connect`
 
 <div align="center">
+  <img src="https://img.shields.io/badge/CONNECT-OPEN_INBOX-0D1117?style=for-the-badge&logo=signal&logoColor=39FF14" alt="Connect" />
+  <br /><br />
+  <h3>Interested in an idea, project, or tech conversation?</h3>
+  <samp>My inbox is open — let's connect and build something together.</samp>
+  <br /><br />
   <a href="https://github.com/khanuzair-f15"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" /></a>
   <a href="https://www.instagram.com/khan_uzair___1/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
   <a href="https://leetcode.com/u/uzair_khan_work/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
