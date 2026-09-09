@@ -1,19 +1,19 @@
 
       <svg
         width="400"
-        height="120"
-        viewBox="0 0 400 120"
+        height="140"
+        viewBox="0 0 400 140"
         fill="none"
         xmlns="http://www.w3.org/2000/svg"
         role="img"
         aria-labelledby="descId"
       >
-        <title id="titleId">DSA</title>
-        <desc id="descId">All LeetCode DSA questions in this repo</desc>
+        <title id="titleId"></title>
+        <desc id="descId"></desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
-            fill: #40c463;
+            fill: #70a5fd;
             animation: fadeInAnimation 0.8s ease-in-out forwards;
           }
           @supports(-moz-appearance: auto) {
@@ -22,14 +22,15 @@
           }
           
     .description {
-      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif; fill: #c9d1d9;
+      font: 400 13px 'Segoe UI', Ubuntu, Sans-Serif;fill: #38bdae;
       
     }
-    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #8b949e }
+    .gray { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }
     .badge { font: 600 11px 'Segoe UI', Ubuntu, Sans-Serif; }
-    .badge rect { opacity: 0.2 }
+    .badge rect { opacity: 0.2; stroke: #38bdae }
+    .badge text { fill: #38bdae }
 
-    .stat { font: 600 14px 'Segoe UI', Ubuntu, "Helvetica Neue", Sans-Serif; fill: #c9d1d9 }
+    .stat { font: 400 12px 'Segoe UI', Ubuntu, Sans-Serif; fill: #38bdae }
     .stagger {
       opacity: 0;
       animation: fadeInAnimation 0.3s ease-in-out forwards;
@@ -37,10 +38,11 @@
     .not_bold { font-weight: 400 }
     .bold { font-weight: 700 }
     .icon {
-      fill: #40c463;
+      fill: #bf91f3;
       display: block;
     }
   
+          
 
           
       /* Animations */
@@ -65,31 +67,24 @@
         </style>
 
         
-
         <defs>
-          <linearGradient id="cardGradient" x1="0" y1="0" x2="400" y2="120" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#0d1117" />
-            <stop offset="1" stop-color="#101b16" />
-          </linearGradient>
-          <radialGradient id="glowGradient" cx="0" cy="0" r="1" gradientTransform="translate(370 18) rotate(136) scale(120 90)" gradientUnits="userSpaceOnUse">
-            <stop stop-color="#40c463" stop-opacity=".20" />
-            <stop offset="1" stop-color="#40c463" stop-opacity="0" />
-          </radialGradient>
+          
+          
         </defs>
+        
 
         <rect
           data-testid="card-bg"
+          class="card-bg"
           x="0.5"
           y="0.5"
-          rx="12"
+          rx="4.5"
           height="99%"
-          stroke="#30363d"
+          stroke="#e4e2e2"
           width="399"
-          fill="url(#cardGradient)"
-          stroke-opacity="0.7"
+          fill="#1a1b27"
+          stroke-opacity="0"
         />
-        <circle cx="370" cy="18" r="100" fill="url(#glowGradient)" />
-        <circle cx="15" cy="120" r="60" fill="#40c463" opacity=".05" />
 
         
       <g
@@ -127,10 +122,10 @@
     
 
     <text class="description" x="25" y="-5"> 
-      <tspan dy="1.2em" x="25">there is all leetcode DSA question in this repp</tspan>
+      <tspan dy="1.2em" x="25">LeetCode solutions and DSA practice &#8212; pushed here as I</tspan><tspan dy="1.2em" x="25">solve them.</tspan>
     </text>
 
-    <g transform="translate(30, 45)">
+    <g transform="translate(30, 65)">
       <g transform="translate(0, 0)">
     <g data-testid="primary-lang">
       <circle data-testid="lang-color" cx="0" cy="-5" r="6" fill="#f34b7d" />
@@ -150,7 +145,7 @@
     </g><g transform="translate(20, 0)"><text data-testid="stargazers" class="gray">1</text></g></g>
     </g>
     
-  <svg x="0" y="0"><g transform="translate(-3, 68)">
+  <svg x="0" y="0"><g transform="translate(-3, 88)">
       
     </g></svg>
     
