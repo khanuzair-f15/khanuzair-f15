@@ -4,8 +4,21 @@
   <br />
 
   <a href="https://github.com/khanuzair-f15?tab=followers"><img src="https://img.shields.io/github/followers/khanuzair-f15?style=for-the-badge&logo=github&label=FOLLOWERS&color=0D1117&labelColor=161B22" alt="GitHub followers" /></a>
+  <a href="https://khanuzair.vercel.app/"><img src="https://img.shields.io/badge/PORTFOLIO-LIVE-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14&labelColor=161B22" alt="Live portfolio" /></a>
   <a href="https://github.com/khanuzair-f15"><img src="https://komarev.com/ghpvc/?username=khanuzair-f15&style=for-the-badge&color=39FF14&label=PROFILE+VIEWS" alt="Profile views" /></a>
   <a href="mailto:khanuzair.work@gmail.com"><img src="https://img.shields.io/badge/STATUS-OPEN_TO_CONNECT-0D1117?style=for-the-badge&logo=maildotru&logoColor=39FF14&labelColor=161B22" alt="Available to connect" /></a>
+</div>
+
+<br />
+
+## `$ open ./portfolio --live`
+
+<div align="center">
+  <img src="https://img.shields.io/badge/PORTFOLIO-EXHIBITION_BUILD_V2-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio exhibition build" />
+  <br /><br />
+  <a href="https://khanuzair.vercel.app/"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-khanuzair.vercel.app-39FF14?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=0D1117" alt="Visit live portfolio" /></a>
+  <br /><br />
+  <sub><font color="#6e7681">Enter the exhibition — About · Skills · Projects · Certificates · Contact</font></sub>
 </div>
 
 <br />
@@ -118,6 +131,7 @@
   <h3>Interested in an idea, project, or tech conversation?</h3>
   <samp>My inbox is open — let's connect and build something together.</samp>
   <br /><br />
+  <a href="https://khanuzair.vercel.app/"><img src="https://img.shields.io/badge/Portfolio-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio" /></a>
   <a href="https://github.com/khanuzair-f15"><img src="https://img.shields.io/badge/GitHub-0D1117?style=for-the-badge&logo=github&logoColor=39FF14" alt="GitHub" /></a>
   <a href="https://www.instagram.com/khan_uzair___1/"><img src="https://img.shields.io/badge/Instagram-0D1117?style=for-the-badge&logo=instagram&logoColor=E4405F" alt="Instagram" /></a>
   <a href="https://leetcode.com/u/uzair_khan_work/"><img src="https://img.shields.io/badge/LeetCode-0D1117?style=for-the-badge&logo=leetcode&logoColor=FFA116" alt="LeetCode" /></a>
