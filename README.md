@@ -16,7 +16,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/PORTFOLIO-EXHIBITION_BUILD_V2-0D1117?style=for-the-badge&logo=vercel&logoColor=39FF14" alt="Portfolio exhibition build" />
   <br /><br />
-  <a href="https://khanuzair.vercel.app/"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-khanuzair.vercel.app-39FF14?style=for-the-badge&logo=vercel&logoColor=0D1117&labelColor=0D1117" alt="Visit live portfolio" /></a>
+  <a href="https://khanuzair.vercel.app/"><img src="https://img.shields.io/badge/VISIT_PORTFOLIO-khanuzair.vercel.app-0D1117?style=for-the-badge&logo=vercel&logoColor=white&labelColor=161B22" alt="Visit live portfolio" /></a>
   <br /><br />
   <sub><font color="#6e7681">Enter the exhibition — About · Skills · Projects · Certificates · Contact</font></sub>
 </div>
